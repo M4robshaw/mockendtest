@@ -1,8 +1,10 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  }
+    "Posts": [
+        {
+            "title": "string",
+            "views": "int",
+            "published": "boolean",
+            "createdAt": "date"
+        }
+    ]
 }
